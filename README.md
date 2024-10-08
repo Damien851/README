@@ -21,4 +21,4 @@ Link to the helpful section: [https://youtu.be/dQw4w9WgXcQ](#thisll--be-a-helpfu
 
 Link to the first non-unique section: [https://youtu.be/dQw4w9WgXcQ](#this-heading-is-not-unique-in-the-file).
 
-Link to the second non-unique section: [https://youtu.be/dQw4w9WgXcQ](#this-heading-is-not-unique-in-the-file-1).
+Link to the second non-unique section: [[ddqsdqsdq dqsdqd](https://youtu.be/dQw4w9WgXcQ)](#this-heading-is-not-unique-in-the-file-1).
