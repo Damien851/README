@@ -15,10 +15,10 @@ TEXT 2
 
 # Links to the example headings above
 
-Link to the sample section: [https://youtu.be/dQw4w9WgXcQ](#sample-section).
+Link to the sample section: [[link](https://youtu.be/dQw4w9WgXcQ)](#sample-section).
 
-Link to the helpful section: [https://youtu.be/dQw4w9WgXcQ](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
+Link to the helpful section: [[link](https://youtu.be/dQw4w9WgXcQ)](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
 
-Link to the first non-unique section: [https://youtu.be/dQw4w9WgXcQ](#this-heading-is-not-unique-in-the-file).
+Link to the first non-unique section: [[link](https://youtu.be/dQw4w9WgXcQ)](#this-heading-is-not-unique-in-the-file).
 
-Link to the second non-unique section: [[ddqsdqsdq dqsdqd](https://youtu.be/dQw4w9WgXcQ)](#this-heading-is-not-unique-in-the-file-1).
+Link to the second non-unique section: [[link](https://youtu.be/dQw4w9WgXcQ)](#this-heading-is-not-unique-in-the-file-1).
